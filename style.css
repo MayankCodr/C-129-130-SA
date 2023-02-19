@@ -1,0 +1,28 @@
+
+body{
+    
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.disk_image{
+    margin: 30px;
+    width: 250px;
+    height: 250px;
+}
+#play_button{
+    font-size: 30px;
+    padding: 10px;
+}
+canvas{
+    border-radius: 10px;
+    margin-top: 50px;
+    border: 15px ridge rgb(216, 203, 244);
+}
+h1{
+    font-size: 50px;
+}
